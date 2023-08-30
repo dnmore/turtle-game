@@ -3,7 +3,7 @@
 Turtle crossing game with bombs speed increasing at each level.
 
 ### Screenshot
-![Full preview of the page](/screenshot.png)
+![App preview](/screenshot.PNG)
 
 ## License
 MIT
