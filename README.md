@@ -1,18 +1,17 @@
 # Turtle Game
 
 ## Overview
-A Turtle-based game where the player controls a character to avoid bombs, with the difficulty increasing at each level.
+A Python game developed with Turtle graphics where players control a character to avoid obstacles, with difficulty increasing at each level.
 
-## Features
-* Player movement using keyboard controls
-* Bombs increase speed with each level
+![App preview](/screenshot.PNG)
 
-## Tech Stack
+## 🔥 Features
+* Responsive player controls and dynamic difficulty levels
+
+
+## 🛠️ Tech Stack
 * `Python`– Programming language
 * `Turtle`– Library for graphics and game development
 
-### Screenshot
-![App preview](/screenshot.PNG)
-
-## License
+## 📜 License
 This project is licensed under the MIT License.
